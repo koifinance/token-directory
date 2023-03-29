@@ -29,9 +29,11 @@
         "symbol": "DMUTE",
         "decimals": 18,
         "logo": "mute.png"
+    },
+    "0x8aAAF6E6167825829Ab29F260f246AFE742FB243": {
+        "name": "ZKCULT",
+        "symbol": "zCULT",
+        "decimals": "18",
+        "logo": "ZKCULT.png"
     }
 }
-
-
-
-
