@@ -11,7 +11,6 @@
     "decimals": 18,
     "logo": "weth.png"
   },
-
   "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4": {
     "name": "USD Coin",
     "symbol": "USDC",
@@ -35,5 +34,11 @@
     "symbol": "ZKDOGE",
     "decimals": 18,
     "logo": "zkdoge.png"
+  },
+  "0x8aAAF6E6167825829Ab29F260f246AFE742FB243": {
+    "name": "ZKCULT",
+    "symbol": "zCULT",
+    "decimals": "18",
+    "logo": "ZKCULT.png"
   }
 }
