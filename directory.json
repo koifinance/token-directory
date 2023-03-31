@@ -23,6 +23,12 @@
     "decimals": 18,
     "logo": "mute.png"
   },
+  "0xc8Ec5B0627C794de0e4ea5d97AD9A556B361d243": {
+    "name": "Whisper",
+    "symbol": "WISP",
+    "decimals": 18,
+    "logo": "wisp.png"
+  },
   "0x27fb794E553DaBC2e99F6fC03F0a4B6B9C2f0E76": {
     "name": "dMute",
     "symbol": "DMUTE",
