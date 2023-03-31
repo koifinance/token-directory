@@ -29,7 +29,14 @@
         "symbol": "DMUTE",
         "decimals": 18,
         "logo": "mute.png"
+    },
+    "0xeF0cb46C2B13737c0CcBF9E5706dDEe95d409A30": {
+        "name": "zkSafemoon",
+        "symbol": "zkMOON",
+        "decimals": 18,
+        "logo": "zkmoon.png"
     }
+}
 }
 
 
