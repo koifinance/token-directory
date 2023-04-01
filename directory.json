@@ -46,5 +46,11 @@
     "symbol": "zCULT",
     "decimals": "18",
     "logo": "ZKCULT.png"
+  },
+  "0x45559297BdEDf453e172833AC7086f7D03f6690B": {
+    "name": "ZK INU",
+    "symbol": "ZKINU",
+    "decimals": "6",
+    "logo": "ZKINU.png"
   }
 }
