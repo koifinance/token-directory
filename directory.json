@@ -64,5 +64,11 @@
     "symbol": "ZYN",
     "decimals": 18,
     "logo": "zyn.png"
+  },
+  "0x7C9becB53A7702244Ca260Fd01B4748756CE7BB3": {
+    "name": "ZKRISE",
+    "symbol": "ZKRISE",
+    "decimals": 18,
+    "logo": "zkrise.png"
   }
 }
