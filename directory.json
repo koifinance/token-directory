@@ -70,5 +70,11 @@
     "symbol": "ZYN",
     "decimals": 18,
     "logo": "zyn.png"
+  },
+  "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad": {
+    "name": "Zksync Shib",
+    "symbol": "ZKSHIB",
+    "decimals": 18,
+    "logo": "zkshib.png"
   }
 }
