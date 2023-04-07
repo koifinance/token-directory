@@ -1,0 +1,98 @@
+[
+  {
+    "chainId": 324,
+    "address": "0x0000000000000000000000000000000000000000",
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/eth.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x5AEa5775959fBC2557Cc8789bC1bf90A239D9a91",
+    "name": "Wrapped ETH",
+    "symbol": "WETH",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/weth.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x3355df6D4c9C3035724Fd0e3914dE96A5a83aaf4",
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/usdc.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x0e97C7a0F8B2C9885C8ac9fC6136e829CbC21d42",
+    "name": "Mute",
+    "symbol": "MUTE",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mute.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xc8Ec5B0627C794de0e4ea5d97AD9A556B361d243",
+    "name": "Whisper",
+    "symbol": "WISP",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wisp.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x27fb794E553DaBC2e99F6fC03F0a4B6B9C2f0E76",
+    "name": "dMute",
+    "symbol": "DMUTE",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mute.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xbFB4b5616044Eded03e5b1AD75141f0D9Cb1499b",
+    "name": "zkDoge",
+    "symbol": "ZKDOGE",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkdoge.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8aAAF6E6167825829Ab29F260f246AFE742FB243",
+    "name": "ZKCULT",
+    "symbol": "zCULT",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKCULT.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x45559297BdEDf453e172833AC7086f7D03f6690B",
+    "name": "ZK INU",
+    "symbol": "$ZKINU",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZKINU.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xa51bc2433a33c448dd40f7074bcab751a1922706",
+    "name": "ZKInu",
+    "symbol": "ZINU",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zinu.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x7C9becB53A7702244Ca260Fd01B4748756CE7BB3",
+    "name": "ZKRISE",
+    "symbol": "ZKRISE",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkrise.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x0231B3DE40B6B3BDd28dcEf037F1b7a3fCf5A95a",
+    "name": "Zynergy",
+    "symbol": "ZYN",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png"
+  } 
+]
