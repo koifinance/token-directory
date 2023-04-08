@@ -94,5 +94,13 @@
     "symbol": "ZYN",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png"
-  } 
+  },
+  {
+    "chainId": 324,
+    "address": "0x94466dCFe241db963AF1bc9741a94DAA87AB2169",
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
+  }
 ]
