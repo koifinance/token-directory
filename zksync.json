@@ -94,5 +94,13 @@
     "symbol": "ZYN",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png"
-  } 
+  },
+  {
+    "chainId": 324,
+    "address": "0x959aB3394246669914BdDEAeB50f8Ac85648615e",
+    "name": "zkLaunchpad",
+    "symbol": "ZKPAD",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklaunchpad.png"
+  }
 ]
