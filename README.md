@@ -7,7 +7,7 @@ Icon and info mappings for tokens on zkSync Era
 Open a PR to add new token information
 
 - Add token icon in png format to the `icons` folder
-- Add your token information to `directory.json` at the bottom of the list while referencing the name of your icon e.g. `token.png`. Please follow the current format
+- Add your token information to `zksync.json` at the bottom of the list while referencing the name of your icon path e.g. `https://github.com/muteio/token-directory/raw/main/icons/yourtokennamehere.png`. Please follow the current format
 
 Once reviewed and valid, PRs will be merged on a first come first serve basis. 
 
