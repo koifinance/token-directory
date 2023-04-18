@@ -70,5 +70,11 @@
     "symbol": "ZYN",
     "decimals": 18,
     "logo": "zyn.png"
+  },
+  "0x94466dCFe241db963AF1bc9741a94DAA87AB2169": {
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logo": "zklotto.png"
   }
 }
