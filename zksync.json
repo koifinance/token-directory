@@ -105,10 +105,19 @@
   },
   {
     "chainId": 324,
+    "address": "0x94466dCFe241db963AF1bc9741a94DAA87AB2169",
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
+  },
+  ,
+  {
+    "chainId": 324,
     "address": "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad",
     "name": "Zksync Shib",
     "symbol": "ZKSHIB",
-    "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/iconszkshib.png"
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
   }
 ]
