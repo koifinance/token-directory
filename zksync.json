@@ -110,5 +110,13 @@
     "symbol": "zkLotto",
     "decimals": 6,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xF42d97Dbff4AdC5fe32966338C306859A5766511",
+    "name": "ZoKe Inu",
+    "symbol": "ZKINU",
+    "decimals": 9,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZoKeInu.png"
   }
 ]
