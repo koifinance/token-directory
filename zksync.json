@@ -111,12 +111,28 @@
     "decimals": 6,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
   },
-    {
+  {
     "chainId": 324,
     "address": "0x6D27b6252B980Ba4350A1e349a3b684237D5e986",
     "name": "Hush",
     "symbol": "HUSH",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hush.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8d266fA745b7Cf3856AF0c778828473B8d33a149",
+    "name": "zkFloki",
+    "symbol": "ZFLOKI",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZFLOKI.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xF42d97Dbff4AdC5fe32966338C306859A5766511",
+    "name": "ZoKe Inu",
+    "symbol": "ZKINU",
+    "decimals": 9,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZoKeInu.png"
   }
 ]
