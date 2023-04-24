@@ -71,10 +71,21 @@
     "decimals": 18,
     "logo": "zyn.png"
   },
+  "0x94466dCFe241db963AF1bc9741a94DAA87AB2169": {
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logo": "zklotto.png"
+  },
+    "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad": {
+    "name": "Zksync Shib",
+    "symbol": "ZKSHIB",
+    "decimals": 18,
+    "logo": "zkshib.png"
+  },
   "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C": {
     "name": "Idexo Token",
     "symbol": "IDO",
     "decimals": 18,
     "logo": "idexo.png"
   }
-}

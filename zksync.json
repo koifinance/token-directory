@@ -104,6 +104,45 @@
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklaunchpad.png"
   },
   {
+    "address": "0x94466dCFe241db963AF1bc9741a94DAA87AB2169",
+    "name": "zkLotto",
+    "symbol": "zkLotto",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x6D27b6252B980Ba4350A1e349a3b684237D5e986",
+    "name": "Hush",
+    "symbol": "HUSH",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hush.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8d266fA745b7Cf3856AF0c778828473B8d33a149",
+    "name": "zkFloki",
+    "symbol": "ZFLOKI",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZFLOKI.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xF42d97Dbff4AdC5fe32966338C306859A5766511",
+    "name": "ZoKe Inu",
+    "symbol": "ZKINU",
+    "decimals": 9,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/ZoKeInu.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad",
+    "name": "Zksync Shib",
+    "symbol": "ZKSHIB",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
+   },
+   {
     "chainId": 324,
     "address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
     "name": "Idexo Token",
@@ -112,3 +151,4 @@
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/idexo.png"
   }
 ]
+
