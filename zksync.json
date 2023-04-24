@@ -142,5 +142,13 @@
     "symbol": "ZKSHIB",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
+   },
+   {
+    "chainId": 324,
+    "address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
+    "name": "Metavault Trade",
+    "symbol": "MVX",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mvx.png"
    }
 ]
