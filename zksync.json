@@ -150,5 +150,13 @@
     "symbol": "MVX",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mvx.png"
-   }
+   },
+   {
+    "chainId": 324,
+    "address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
+    "name": "Idexo Token",
+    "symbol": "IDO",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/idexo.png"
+  }
 ]
