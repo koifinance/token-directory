@@ -158,5 +158,13 @@
     "symbol": "IDO",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/idexo.png"
+   },
+   {
+   "chainId": 324,
+    "address": "0x89F69aD54e5D05A7A7A1314ecBc7d56D965D3020",
+    "name": "Wojak Coin Zk",
+    "symbol": "$WOJAK",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wojak.png"
   }
 ]
