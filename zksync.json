@@ -158,5 +158,13 @@
     "symbol": "IDO",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/idexo.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x503234F203fC7Eb888EEC8513210612a43Cf6115",
+    "name": "Liquity USD",
+    "symbol": "LUSD",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/lusd.png"
   }
 ]
