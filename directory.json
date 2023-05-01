@@ -82,4 +82,10 @@
     "symbol": "ZKSHIB",
     "decimals": 18,
     "logo": "zkshib.png"
+  },
+  "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4": {
+    "name": "Bolt",
+    "symbol": "BOLT",
+    "decimals": 18,
+    "logo": "bolt.png"
 }
