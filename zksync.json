@@ -174,5 +174,13 @@
     "symbol": "$WOJAK",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/Wojak.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x61b41e0244133b9c9c47a57e51a5ef70be2c5dd4",
+    "name": "Bolt",
+    "symbol": "BOLT",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/bolt.png"
   }
 ]
