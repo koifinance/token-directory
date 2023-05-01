@@ -182,7 +182,7 @@
     "symbol": "BOLT",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/bolt.png"
-  }
+  },
   {
     "chainId": 324,
     "address": "0xA4C00e85ceBc898e885F5055171dc424dbA8bF45",
