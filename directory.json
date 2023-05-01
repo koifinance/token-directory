@@ -88,4 +88,11 @@
     "symbol": "BOLT",
     "decimals": 18,
     "logo": "bolt.png"
+  },
+  "0xA4C00e85ceBc898e885F5055171dc424dbA8bF45": {
+    "name": "Panda",
+    "symbol": "PANDA",
+    "decimals": 18,
+    "logo": "panda.png"
+  }
 }
