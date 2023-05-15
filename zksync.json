@@ -194,7 +194,7 @@
   {
     "chainId": 324,
     "address": "0x8E817eEe4A987EAd05d03cCACb354F67b0DBd63d",
-    "name": "ZK INA",
+    "name": "zkINA",
     "symbol": "ZKINA",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkina.png"
