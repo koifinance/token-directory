@@ -142,16 +142,16 @@
     "symbol": "ZKSHIB",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
-   },
-   {
+  },
+  {
     "chainId": 324,
     "address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
     "name": "Metavault Trade",
     "symbol": "MVX",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mvx.png"
-   },
-   {
+  },
+  {
     "chainId": 324,
     "address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
     "name": "Idexo Token",
@@ -190,5 +190,13 @@
     "symbol": "PANDA",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/panda.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2",
+    "name": "HeartX Utility Token",
+    "symbol": "HNX",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hnx.png"
   }
 ]
