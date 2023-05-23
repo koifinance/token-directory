@@ -89,14 +89,6 @@
   },
   {
     "chainId": 324,
-    "address": "0x0231B3DE40B6B3BDd28dcEf037F1b7a3fCf5A95a",
-    "name": "Zynergy",
-    "symbol": "ZYN",
-    "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zyn.png"
-  },
-  {
-    "chainId": 324,
     "address": "0x959aB3394246669914BdDEAeB50f8Ac85648615e",
     "name": "zkLaunchpad",
     "symbol": "ZKPAD",
@@ -110,14 +102,6 @@
     "symbol": "zkLotto",
     "decimals": 6,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklotto.png"
-  },
-  {
-    "chainId": 324,
-    "address": "0x6D27b6252B980Ba4350A1e349a3b684237D5e986",
-    "name": "Hush",
-    "symbol": "HUSH",
-    "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hush.png"
   },
   {
     "chainId": 324,
@@ -190,6 +174,14 @@
     "symbol": "PANDA",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/panda.png"
+  },
+  {
+    "chainId": 324
+    "address": "0x8E817eEe4A987EAd05d03cCACb354F67b0DBd63d",
+    "name": "zkINA",
+    "symbol": "ZKINA",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkina.png"
   },
   {
     "chainId": 324,
