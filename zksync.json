@@ -182,5 +182,13 @@
     "symbol": "ZKINA",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkina.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0xF1F70F838eF52CBCFf9E2f3f58E1397c6b72D4A8",
+    "name": "zkLaunch",
+    "symbol": "ZKL",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zklaunch.png"
   }
 ]
