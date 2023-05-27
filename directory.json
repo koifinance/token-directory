@@ -94,5 +94,11 @@
     "symbol": "PANDA",
     "decimals": 18,
     "logo": "panda.png"
+  },
+  "0xF1F70F838eF52CBCFf9E2f3f58E1397c6b72D4A8": {
+    "name": "zkLaunch",
+    "symbol": "ZKL",
+    "decimals": 18,
+    "logo": "zklaunch.png"
   }
 }
