@@ -182,5 +182,13 @@
     "symbol": "ZKINA",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkina.png"
+  },
+  {
+    "chainId": 324,
+    "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
+    "name": "USD+",
+    "symbol": "USD+",
+    "decimals": 6,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/usd+.png"
   }
 ]
