@@ -33,6 +33,14 @@
   },
   {
     "chainId": 324,
+    "address": "0xBBeB516fb02a01611cBBE0453Fe3c580D7281011",
+    "name": "Wrapped BTC",
+    "symbol": "WBTC",
+    "decimals": 8,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wbtc.png"
+  },
+  {
+    "chainId": 324,
     "address": "0xc8Ec5B0627C794de0e4ea5d97AD9A556B361d243",
     "name": "Whisper",
     "symbol": "WISP",
