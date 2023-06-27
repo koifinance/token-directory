@@ -77,7 +77,7 @@
     "decimals": 6,
     "logo": "zklotto.png"
   },
-    "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad": {
+  "0x5e38CB3e6c0faaFAa5C32C482864fCef5A0660Ad": {
     "name": "Zksync Shib",
     "symbol": "ZKSHIB",
     "decimals": 18,
@@ -94,5 +94,11 @@
     "symbol": "PANDA",
     "decimals": 18,
     "logo": "panda.png"
+  },
+  "0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2": {
+    "name": "HeartX Utility Token",
+    "symbol": "HNX",
+    "decimals": 18,
+    "logo": "hnx.png"
   }
 }
