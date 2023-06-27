@@ -5,7 +5,7 @@
     "name": "Ethereum",
     "symbol": "ETH",
     "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/eth.png"
+    "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
   },
   {
     "chainId": 324,
@@ -13,7 +13,7 @@
     "name": "Wrapped ETH",
     "symbol": "WETH",
     "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/weth.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/2518/small/weth.png?1628852295"
   },
   {
     "chainId": 324,
@@ -21,7 +21,7 @@
     "name": "USD Coin",
     "symbol": "USDC",
     "decimals": 6,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/usdc.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png?1547042389"
   },
   {
     "chainId": 324,
@@ -29,7 +29,7 @@
     "name": "Mute",
     "symbol": "MUTE",
     "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mute.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14331/small/MUTE.png?1617618967"
   },
   {
     "chainId": 324,
@@ -37,7 +37,7 @@
     "name": "Wrapped BTC",
     "symbol": "WBTC",
     "decimals": 8,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wbtc.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png?1548822744"
   },
   {
     "chainId": 324,
@@ -45,7 +45,7 @@
     "name": "Whisper",
     "symbol": "WISP",
     "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/wisp.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/29650/small/wisp_200.png?1681725709"
   },
   {
     "chainId": 324,
@@ -53,7 +53,7 @@
     "name": "dMute",
     "symbol": "DMUTE",
     "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mute.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/14331/small/MUTE.png?1617618967"
   },
   {
     "chainId": 324,
@@ -134,16 +134,16 @@
     "symbol": "ZKSHIB",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/zkshib.png"
-  },
-  {
+   },
+   {
     "chainId": 324,
     "address": "0xC8Ac6191CDc9c7bF846AD6b52aaAA7a0757eE305",
     "name": "Metavault Trade",
     "symbol": "MVX",
     "decimals": 18,
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/mvx.png"
-  },
-  {
+   },
+   {
     "chainId": 324,
     "address": "0xDea6d5161978d36b5C0FA6a491faA754f4BC809C",
     "name": "Idexo Token",
@@ -184,7 +184,7 @@
     "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/panda.png"
   },
   {
-    "chainId": 324
+    "chainId": 324,
     "address": "0x8E817eEe4A987EAd05d03cCACb354F67b0DBd63d",
     "name": "zkINA",
     "symbol": "ZKINA",
@@ -193,18 +193,18 @@
   },
   {
     "chainId": 324,
-    "address": "0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2",
-    "name": "HeartX Utility Token",
-    "symbol": "HNX",
-    "decimals": 18,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/hnx.png"
-  },
-  {
-    "chainId": 324,
     "address": "0x8E86e46278518EFc1C5CEd245cBA2C7e3ef11557",
     "name": "USD+",
     "symbol": "USD+",
     "decimals": 6,
-    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/usd+.png"
+    "logoURI": "https://assets.coingecko.com/coins/images/25757/small/USD__logo.png?1653519267"
+  },
+  {
+    "chainId": 324,
+    "address": "0xc76997c863bac0f6e4b6d3c2404b06013a0b29e2",
+    "name": "HeartX Utility Token",
+    "symbol": "HNX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/30531/small/HNX_icon.png?1684890258"
   }
 ]
