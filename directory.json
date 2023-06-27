@@ -94,5 +94,11 @@
     "symbol": "PANDA",
     "decimals": 18,
     "logo": "panda.png"
+  },
+  "0x45Eda9866506DCF2bAb6789202864D16046Fd336": {
+    "name": "Wendy",
+    "symbol": "WENDY",
+    "decimals": 18,
+    "logo": "wendy.png"
   }
 }
