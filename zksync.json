@@ -206,5 +206,13 @@
     "symbol": "HNX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30531/small/HNX_icon.png?1684890258"
+  },
+  {
+    "chainId": 324,
+    "address": "0x93b517eD777069b1823405fC496e9B80C5bBE485",
+    "name": "Orraloz",
+    "symbol": "ORRALOZ",
+    "decimals": 18,
+    "logoURI": "https://github.com/muteio/token-directory/raw/main/icons/orraloz_200x200.png"
   }
 ]
