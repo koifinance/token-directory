@@ -206,5 +206,13 @@
     "symbol": "HNX",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/30531/small/HNX_icon.png?1684890258"
+  },
+  {
+    "chainId": 324,
+    "address": "0x31C2c031fDc9d33e974f327Ab0d9883Eae06cA4A",
+    "name": "zkSwap Finance",
+    "symbol": "ZF",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/31633/standard/zf.png?1696530449"
   }
 ]
